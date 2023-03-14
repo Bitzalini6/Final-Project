@@ -1,0 +1,15 @@
+#root {
+  height: 90vh;
+  margin: auto;
+  padding: 2rem;
+  margin-top: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.app {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
