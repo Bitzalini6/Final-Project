@@ -9,7 +9,7 @@ export default function RootLayout() {
         className="categories"
         onClick={() => {
           document.body.style.backgroundImage =
-            "linear-gradient(0deg, #08AEEA 0%, #2AF598 100%)";
+            "linear-gradient(to right, #DECBA4, #3E5151)";
         }}
       >
         <NavLink to="/"></NavLink>

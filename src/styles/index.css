@@ -79,11 +79,11 @@ header nav {
 }
 
 .btn {
-  border: 3px solid coral;
+  border: 3px solid black;
   background: none;
-  color: coral;
+  color: black;
   padding: 10px 20px;
-  font-size: 20px;
+  font-size: 25px;
   font-family: "Dancing Script", cursive;
   cursor: pointer;
   margin: 10px;
