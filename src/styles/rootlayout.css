@@ -13,6 +13,8 @@ span {
 
 h1 {
   color: black;
+
+  text-decoration: underline black;
 }
 button {
   font-family: "Dancing Script", cursive;
