@@ -12,18 +12,17 @@ const Footer = () => {
       <div className="container">
         <div className="row">
           <div className="contact">
-            <h3>Contact:</h3>
             <a
               href="https://www.facebook.com/robert.proxy"
               target="_target"
-              style={{ color: "black" }}
+              style={{ color: "black", fontSize: "50px" }}
             >
               <FaFacebookSquare />
             </a>
             <a
               href="https://www.instagram.com/proxyrobert/"
               target="_target"
-              style={{ color: "black" }}
+              style={{ color: "black", fontSize: "50px" }}
             >
               <FaInstagramSquare />
             </a>

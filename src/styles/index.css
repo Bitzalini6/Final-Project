@@ -72,25 +72,25 @@ header nav {
   margin-left: 200px;
 }
 
-#root>div>header>nav>h1 {
+#root > div > header > nav > h1 {
   margin-right: 250px;
   font-family: "Dancing Script", cursive;
   color: grey;
 }
 
 .btn {
-  border: 1px solid red;
+  border: 3px solid coral;
   background: none;
-  color: red;
+  color: coral;
   padding: 10px 20px;
   font-size: 20px;
-  font-family: "montserrat";
+  font-family: "Dancing Script", cursive;
   cursor: pointer;
   margin: 10px;
   transition: 0.8s;
   position: relative;
   overflow: hidden;
-  font-weight: bold;
+  font-weight: bolder;
 }
 
 button:hover {
@@ -103,7 +103,7 @@ button:focus-visible {
 }
 
 .btn:hover {
-  color: #fff;
+  color: black;
 }
 
 .btn::before {
