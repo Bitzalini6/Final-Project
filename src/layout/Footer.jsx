@@ -29,7 +29,7 @@ const Footer = () => {
             <div className="facebook"></div>
             <div className="instagram"></div>
           </div>
-          <div className="email">Email: </div>
+          <div className="email">Email: imr_robert@yahoo.com </div>
           <p>
             &copy;{new Date().getFullYear()} Proxy Photography | All rights
             reserved

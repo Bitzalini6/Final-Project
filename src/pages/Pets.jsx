@@ -5,6 +5,8 @@ import Img1 from "../PetsImgs/Pets1.jpg";
 import Img2 from "../PetsImgs/Pets2.jpg";
 import Img3 from "../PetsImgs/Pets3.jpg";
 import Img4 from "../PetsImgs/Pets4.jpg";
+import Img5 from "../PetsImgs/Pets5.jpg";
+import Img6 from "../PetsImgs/Pets6.jpg";
 
 const Pets = () => {
   let data = [
@@ -23,6 +25,14 @@ const Pets = () => {
     {
       id: 4,
       imgSrc: Img4,
+    },
+    {
+      id: 5,
+      imgSrc: Img5,
+    },
+    {
+      id: 6,
+      imgSrc: Img6,
     },
   ];
 

@@ -49,7 +49,7 @@ const Babies = () => {
   };
 
   return (
-    <div>
+    <>
       <div className={model ? "model open" : "model"}>
         <img src={tempimgSrc} />
         <CancelPresentationIcon onClick={() => setModel(false)} />
@@ -62,12 +62,12 @@ const Babies = () => {
               key={index}
               onClick={() => getImg(item.imgSrc)}
             >
-              <img src={item.imgSrc} style={{ width: "400px" }} />
+              <img src={item.imgSrc} style={{ width: "100%" }} />
             </div>
           );
         })}
       </div>
-    </div>
+    </>
   );
 };
 
